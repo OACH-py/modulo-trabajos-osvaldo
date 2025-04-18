@@ -15,17 +15,6 @@ Repositorio académico con las actividades, proyectos y documentación realizado
 
 ---
 
-## 📂 Estructura del repositorio
-
-| Carpeta         | Contenido                                     |
-|----------------|-----------------------------------------------|
-| `actividades/` | Tareas, ejercicios y prácticas                |
-| `proyectos/`   | Proyectos finales o integradores              |
-| `documentacion/` | Apuntes, diagramas y explicaciones         |
-| `extras/`       | Recursos adicionales o material de apoyo     |
-
----
-
 ## 🌟 Objetivo
 
 > Mantener un registro ordenado, limpio y profesional de todos los trabajos desarrollados en la materia de Módulo.
