@@ -1,7 +1,12 @@
 <div align="center">
 
 # 📚 Trabajos de la Materia de Módulo
-
+![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow?style=flat-square)
+![Materia](https://img.shields.io/badge/materia-Módulo-blue?style=flat-square)
+![Formato](https://img.shields.io/badge/formato-Markdown-lightgrey?style=flat-square)
+![Contribuciones](https://img.shields.io/badge/contribuciones-cerradas-red?style=flat-square)
+![Educativo](https://img.shields.io/badge/uso-educativo-brightgreen?style=flat-square)
+![Nivel](https://img.shields.io/badge/nivel-media%20superior-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
 Repositorio académico con las actividades, proyectos y documentación realizados en la materia de **Módulo**.
