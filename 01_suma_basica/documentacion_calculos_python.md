@@ -50,7 +50,7 @@ while True:
 ```
 ---
 
-# 💡 **Explicación del Código**
+## 💡 **Explicación del Código**
 
 1. **Entrada de Datos**:
 
@@ -72,7 +72,7 @@ while True:
 
 ---
 
-# 🔑 **Conceptos Clave**
+## 🔑 **Conceptos Clave**
 
 1. **`try` y `except`**:
 
@@ -92,7 +92,7 @@ while True:
 
 ---
 
-# 🖥️ **Ejemplo de Ejecución del Código**
+## 🖥️ **Ejemplo de Ejecución del Código**
 
 Supón que el usuario ingresa los siguientes números:
 
