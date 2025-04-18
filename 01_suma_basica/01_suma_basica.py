@@ -1,7 +1,8 @@
+# Solicita al usuario que ingrese números separados por espacios
 numeros = input("Ingresa los números separados por espacio: ")
 
-# Convertir la entrada en una lista de números flotantes
+# Divide la cadena ingresada en una lista de cadenas y convierte cada elemento a flotante
 lista = list(map(float, numeros.split()))
 
-# Calcular y mostrar la suma
+# Calcula la suma de los elementos de la lista
 print("La suma es:", sum(lista))
