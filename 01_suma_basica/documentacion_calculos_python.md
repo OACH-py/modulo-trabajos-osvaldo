@@ -47,6 +47,7 @@ while True:
     # Captura errores si el usuario ingresó un dato no numérico
     except ValueError:
         print("Error: Solo se permiten números. Intenta de nuevo.")
+```
 ---
 
 💡 **Explicación del Código**
