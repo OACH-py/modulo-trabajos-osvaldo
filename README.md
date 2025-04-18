@@ -2,8 +2,6 @@
 
 # 📚 Trabajos de la Materia de Módulo
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OsvaldoCH/modulo-trabajos-osvaldo?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/OsvaldoCH/modulo-trabajos-osvaldo?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
 Repositorio académico con las actividades, proyectos y documentación realizados en la materia de **Módulo**.
