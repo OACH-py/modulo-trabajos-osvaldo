@@ -9,7 +9,7 @@ while True:
         lista = list(map(float, numeros.split()))
         
         # Si la conversión fue exitosa, calcula la suma de los números
-        print("La suma es:", sum(lista))
+        print(f"La suma es:{sum(lista)}")
         
         # Sale del ciclo porque la entrada fue válida
         break
