@@ -1,6 +1,7 @@
 <div align="center">
 
 # 📚 Trabajos de la Materia de Módulo
+
 ![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow?style=flat-square)
 ![Materia](https://img.shields.io/badge/materia-Módulo-blue?style=flat-square)
 ![Formato](https://img.shields.io/badge/formato-Markdown-lightgrey?style=flat-square)
@@ -35,19 +36,18 @@ Repositorio académico con las actividades, proyectos y documentación realizado
 
 ## ✍️ Autor
 
-**Osvaldo Cárdenas Hernández**  
-Estudiante de nivel medio superior  
-Materia: *Módulo*  
+**Osvaldo Cárdenas Hernández**
+Estudiante de nivel medio superior
+Materia: *Módulo*
 Año: 2025
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia [MIT].
+Este proyecto está bajo la licencia MIT.
 
-**¿Qué es la licencia MIT?**  
-Es una licencia de software libre y abierta que permite:
+**¿Qué es la licencia MIT?**Es una licencia de software libre y abierta que permite:
 
 - Usar el código para cualquier propósito.
 - Copiarlo, modificarlo y distribuirlo.
