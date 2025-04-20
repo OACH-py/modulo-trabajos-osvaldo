@@ -44,7 +44,7 @@ Año: 2025
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
+Este proyecto está bajo la licencia [MIT].
 
 **¿Qué es la licencia MIT?**  
 Es una licencia de software libre y abierta que permite:
