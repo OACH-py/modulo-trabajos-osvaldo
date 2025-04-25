@@ -4,7 +4,6 @@
 
 ![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow?style=flat-square)
 ![Materia](https://img.shields.io/badge/materia-Módulo-blue?style=flat-square)
-![Formato](https://img.shields.io/badge/formato-Markdown-lightgrey?style=flat-square)
 ![Contribuciones](https://img.shields.io/badge/contribuciones-cerradas-red?style=flat-square)
 ![Educativo](https://img.shields.io/badge/uso-educativo-brightgreen?style=flat-square)
 ![Nivel](https://img.shields.io/badge/nivel-media%20superior-orange?style=flat-square)
@@ -21,16 +20,14 @@ Repositorio académico con las actividades, proyectos y documentación realizado
 > Mantener un registro ordenado, limpio y profesional de todos los trabajos desarrollados en la materia de Módulo.
 
 - Reflejar el progreso académico.
-- Documentar prácticas y resultados.
 - Compartir contenido educativo y estructurado.
 
 ---
 
 ## ⚙️ Tecnologías / Herramientas utilizadas
 
-- Markdown (`.md`)
-- Archivos PDF, imágenes y código fuente
 - [Git](https://git-scm.com/) & [GitHub](https://github.com/)
+- [Python](https://www.python.org/)
 
 ---
 
@@ -47,7 +44,7 @@ Año: 2025
 
 Este proyecto está bajo la licencia MIT.
 
-**¿Qué es la licencia MIT?** 
+**¿Qué es la licencia MIT?**
 
 Es una licencia de software libre y abierta que permite:
 
