@@ -1,25 +1,22 @@
-# Inicia un ciclo infinito que se repetirá hasta que el usuario ingrese una entrada válida
+# Bucle que se repite hasta que el usuario ingrese datos válidos
 while True:
-
-    # Solicita al usuario que ingrese números separados por espacios
-    numeros = input("Ingresa los números separados por espacio: ")
-
     try:
-        # Divide la entrada por espacios y convierte cada elemento a tipo float
-        lista = list(map(float, numeros.split()))
+        # Solicita al usuario que ingrese números separados por espacio,
+        # los divide y los convierte a tipo float
+        nums = list(map(float, input("Ingresa los números separados por espacio: ").split()))
 
-        # Calcula la suma de los números
-        print(f"La suma es: {sum(lista)}")
+        # Imprime la suma de los números
+        print(f"Suma: {sum(nums)}")
 
-        # Encuentra y muestra el número más grande
-        print(f"El número más grande es: {max(lista)}")
+        # Imprime el número más grande de la lista
+        print(f"Máximo: {max(nums)}")
 
-        # Encuentra y muestra el número más pequeño
-        print(f"El número más pequeño es: {min(lista)}")
-        
-        # Si todo fue correcto, rompe el ciclo y termina
+        # Imprime el número más pequeño de la lista
+        print(f"Mínimo: {min(nums)}")
+
+        # Finaliza el bucle si todo fue correcto
         break
-    
-    # Captura errores si el usuario ingresó un dato no numérico
+
+    # Si ocurre un error al convertir, muestra un mensaje y repite
     except ValueError:
-        print("Error: Solo se permiten números. Intenta de nuevo.")
+        print("Error: solo números. Intenta de nuevo.")
