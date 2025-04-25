@@ -16,14 +16,10 @@ while True:
 
         # Encuentra y muestra el número más pequeño
         print(f"El número más pequeño es: {min(lista)}")
-
-        # Calcula el promedio: suma total entre cantidad de elementos
-        promedio = sum(lista) / len(lista)
-        print(f"El promedio es: {promedio}")
-
+        
         # Si todo fue correcto, rompe el ciclo y termina
         break
-
+    
     # Captura errores si el usuario ingresó un dato no numérico
     except ValueError:
         print("Error: Solo se permiten números. Intenta de nuevo.")
