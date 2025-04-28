@@ -1,5 +1,5 @@
 # Solicita al usuario el valor inicial para iniciar la secuencia
-n = int(input("Valor inicial: "))
+n = abs(int(input("Valor inicial: ")))
 
 # Inicializa el contador de pasos
 p = 0
